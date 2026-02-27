@@ -1,0 +1,8 @@
+tensorflow-cpu>=2.15.0
+rerun-sdk>=0.15.0
+numpy>=1.24.0
+click>=8.1.0
+tqdm
+
+# 注意: rerun-cli 需要单独安装
+# 运行 python install_rerun_cli.py 自动安装
